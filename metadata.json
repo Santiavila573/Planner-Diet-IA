@@ -1,0 +1,5 @@
+{
+  "name": "NutriGenius: Tu Asistente Nutricional con IA",
+  "description": "NutriGenius es una aplicación inteligente que genera planes de nutrición semanales personalizados utilizando IA. Ingresa tus datos y objetivos para recibir un plan de comidas a medida.",
+  "requestFramePermissions": []
+}
